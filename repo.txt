@@ -1,0 +1,14 @@
+new:roma:all_inclusive:100
+summer:anlgia:super:150
+promo:danemarca:individual:75
+winter:austria:family:400
+spring:olanda:couple:200
+babushka:rusia:comrade:100
+relax:techirghiol:varstnici:50
+gold:dubai:bogati:500
+traditional:maramures:toti:100
+autumn:japonia:toti:250
+ski:austria:experti:150
+internship:olanda:studenti:50
+putin:rusia:oricine:65
+razboi:austria:toti:150
